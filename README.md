@@ -134,15 +134,9 @@ class AbdulKhader:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Khader117&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Khader117&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Abdul-Khader117&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 <br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Khader117&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Khader117&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF"/>
 
 </div>
 
@@ -196,25 +190,17 @@ class AbdulKhader:
 
 <div align="center">
 
-<a href="mailto:abdulkhader117@gmail.com">
+<a href="mailto:shaikabdulk1976@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Abdul-Khader117">
+<a href="https://www.linkedin.com/in/sk-abdul-khader-masthan-45a710309/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abdul-Khader117">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-<div align="center">
-
-### 🌌 *"Build systems that think. Engineer solutions that scale."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,25:0A3D62,50:2563EB,75:3B82F6,100:60A5FA"/>
 
