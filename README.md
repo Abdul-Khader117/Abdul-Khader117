@@ -42,23 +42,28 @@
  
 > *From Chennai, India — where the heat is relentless and so is the work ethic.*
  
-It started with a question I couldn't stop asking: **"What if software could think?"**
- 
-Not just execute — but *reason*, *adapt*, *understand*. That curiosity pulled me deep into AI, and I never looked back.
- 
-Today I'm an **AI Engineer & Full Stack Developer** who lives at the intersection of intelligent systems and real-world products. My work isn't about chasing trends — it's about building things that *actually work*: RAG pipelines that retrieve knowledge like a seasoned researcher, LLM systems that feel responsive and purposeful, and full-stack apps that tie it all together without the seams showing.
- 
-Before a system ships, I've already stress-tested it in my head a dozen times. I care about **production-readiness** the way others care about prototypes — because an AI that works in a demo but breaks in the wild is just a toy.
- 
-My current obsession? **Agentic AI** — systems that don't just respond, but *plan, act, and course-correct*. I'm building toward a future where AI isn't a feature you bolt on, but the core of how software thinks.
- 
----
- 
-*Three things that define how I build:*
- 
-🔹 **Depth over breadth** — I'd rather master a problem than skim ten of them.
-🔹 **Systems thinking** — every component exists in relation to everything else.
-🔹 **Ship, then sharpen** — real feedback beats perfect planning, every time.
+Hi, I'm an aspiring AI Engineer and Full Stack Developer who enjoys building projects that combine intelligent systems with practical applications.
+
+My interest in technology started with a simple question: **"How can software do more than just follow instructions?"** That curiosity led me into Artificial Intelligence, Machine Learning, and modern web development, where I spend most of my time learning by building.
+
+I'm currently entering my final year of Computer Science and have worked on projects involving AI, RAG systems, computer vision, recommendation systems, full-stack web applications, and automation. I enjoy exploring how Large Language Models, retrieval systems, and intelligent agents can be used to solve real-world problems.
+
+What excites me most is the process of turning an idea into a working product — from designing the backend and building the frontend to integrating AI capabilities that make applications more useful and interactive.
+
+I'm constantly learning, experimenting, and improving my skills while working on projects that challenge me to think beyond the classroom.
+
+### What I focus on
+
+🔹 Building AI-powered applications that solve practical problems
+
+🔹 Learning modern full-stack development and system design
+
+🔹 Exploring Agentic AI, RAG architectures, and LLM-based systems
+
+🔹 Creating projects that help me grow as an engineer
+
+I believe the best way to learn is by building, breaking, improving, and repeating the process.
+
  
 ---
 
